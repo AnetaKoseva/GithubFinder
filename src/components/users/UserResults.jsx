@@ -1,6 +1,6 @@
 import {  useContext } from 'react'
-import UserItem from './UserItem'
 import Spinner from '../layout/Spinner'
+import UserItem from './UserItem'
 import GitHubContext from '../../context/github/GitHubContext'
 
 function UserResults() {
